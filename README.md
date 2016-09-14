@@ -2,4 +2,4 @@
 Creating a new branch is quick!
 Creating a new branch id quick and simple!
 
-Writing in branch of master
+Obey order in branch of master;
